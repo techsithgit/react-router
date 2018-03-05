@@ -7,4 +7,4 @@ from the command prompt clone the project
 * $npm install
 * $npm start
 
-[Watch the Tutorial]().
+[Watch the Tutorial](https://youtu.be/XRfD8xIOroA).
